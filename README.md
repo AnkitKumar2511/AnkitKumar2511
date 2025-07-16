@@ -100,10 +100,10 @@
 
 
 
-### 🐍 A Lazy Snake Still Counts
+### From Tiny Commits to Triumph ✨
 
-> **The snake tried to eat my commits… but got bored halfway.**  
-> Turns out even snakes take breaks. 💤
+> **Because every code journey starts —
+with a few steps… or tiny commits.** 
 
 <p align="center">
   <img src="https://github.com/AnkitKumar2511/AnkitKumar2511/raw/output/ocean.gif" alt="snake eating my contributions">
