@@ -19,6 +19,7 @@
  * @returns {Object}  A JSON-compatible version of Ankit Kumar Gupta, ready to deploy.
  */
 ```
+---
 
 <h2 align="center">📊 GitHub Profile Summary</h2>
 
@@ -57,7 +58,7 @@
   </a>
 </p>
 
-
+---
 
 
 ### ✅ Skills I Am Experienced At
@@ -98,7 +99,7 @@
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
 </p>
 
-
+---
 
 ### From Tiny Commits to Triumph ✨
 
@@ -107,4 +108,26 @@ with a few steps… or tiny commits.**
 
 <p align="center">
   <img src="https://github.com/AnkitKumar2511/AnkitKumar2511/raw/output/ocean.gif" alt="snake eating my contributions">
+</p>
+
+---
+
+<h2 align="center">📬 Let's Connect</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ankitkumargupta2511/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ankitkumar2511920@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://x.com/AnkitKu25613970" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter/X" />
+  </a>
+  <a href="https://github.com/AnkitKumar2511" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://ankitkumar2511.github.io/Portfolio-Website/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" />
+  </a>
 </p>
