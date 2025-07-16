@@ -104,3 +104,9 @@
 
 > **The snake tried to eat my commits… but got bored halfway.**  
 > Turns out even snakes take breaks. 💤
+
+<p align="center">
+  <img src="https://github.com/AnkitKumar2511/AnkitKumar2511/raw/output/ocean.gif" alt="snake eating my contributions">
+  <br>
+  <img src="https://github.com/AnkitKumar2511/AnkitKumar2511/raw/output/github-snake.svg" alt="snake grid animation">
+</p>
