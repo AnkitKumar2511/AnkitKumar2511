@@ -107,6 +107,4 @@
 
 <p align="center">
   <img src="https://github.com/AnkitKumar2511/AnkitKumar2511/raw/output/ocean.gif" alt="snake eating my contributions">
-  <br>
-  <img src="https://github.com/AnkitKumar2511/AnkitKumar2511/raw/output/github-snake.svg" alt="snake grid animation">
 </p>
