@@ -21,35 +21,10 @@
 ```
 ---
 
-<h2 align="center">📊 GitHub Profile Summary</h2>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AnkitKumar2511&color=blue&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/AnkitKumar2511?label=Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Public%20Repos-12-blue" alt="Public Repos" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/AnkitKumar2511">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnkitKumar2511&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=AnkitKumar2511&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
-
-<h2 align="center">Languages</h2>
-
-<p align="center">
-  <a href="https://github.com/AnkitKumar2511">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitKumar2511&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/AnkitKumar2511">
-    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnkitKumar2511&theme=gruvbox&layout=compact&hide_border=true" alt="Top Langs by Repo" />
-    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnkitKumar2511&theme=gruvbox&layout=compact&hide_border=true" alt="Top Langs by Commit" />
-  </a>
 </p>
 
 ---
