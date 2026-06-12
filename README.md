@@ -36,12 +36,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitKumar2511&bg_color=000000&color=00e676&line=00e676&point=ffffff&hide_border=true" alt="Contribution Graph" />
-  </a>
-</p>
-
 
 <h2 align="center">Languages</h2>
 
