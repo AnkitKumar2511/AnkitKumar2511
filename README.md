@@ -14,7 +14,7 @@
  * @param {string} approachable - Always! Slide in with cool ideas or memes.
  * @param {string} strength - Resolute. (Like a semicolon — silent but essential)
  * @param {string} weakness - Overthinking every line of code... and every life decision.
- * @param {Date} birthday - 21st of January 2004. (currently running version 21.0 with regular updates.)
+ * @param {Date} birthday - 21st of January 2004. (currently running version 22.0 with regular updates.)
  * @throws {Punch} To any and all bugs. (console.log('Justice served');)
  * @returns {Object}  A JSON-compatible version of Ankit Kumar Gupta, ready to deploy.
  */
