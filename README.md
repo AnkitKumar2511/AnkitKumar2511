@@ -97,7 +97,7 @@ with a few steps… or tiny commits.**
   <a href="https://github.com/AnkitKumar2511" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://ankitkumar2511.github.io/Portfolio-Website/" target="_blank">
+  <a href="https://akg-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" />
   </a>
 </p>
